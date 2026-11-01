@@ -194,7 +194,7 @@ The engine is built around decoupled, extensible Object-Oriented principles:
 ## 📁 Project Structure
 
 ```text
-Frieren-Game/
+MANA-DECEPTION/
 ├── Character.cs                               # Base combatant domain model (HP, mitigation, events)
 ├── Mage.cs                                    # Magic-user subclass (Mana, Zoltraak, barrier, suppression)
 ├── Demon.cs                                   # Demon subclass (Innate magic, perception, guard-break)
@@ -215,8 +215,8 @@ Frieren-Game/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/chethan779/Frieren-Game.git
-   cd Frieren-Game
+   git clone https://github.com/chethan779/MANA-DECEPTION.git
+   cd MANA-DECEPTION
    ```
 
 2. **Launch the interactive battle menu:**
