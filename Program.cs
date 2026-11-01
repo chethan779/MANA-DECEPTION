@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace FrierenCombat;
+namespace ManaDeception;
 
 internal static class Program
 {
@@ -301,8 +301,8 @@ internal static class Program
     private static void PrintBanner()
     {
         Console.WriteLine("╔═════════════════════════════════════════════════════════════════╗");
-        Console.WriteLine("║   ✦   F R I E R E N :   B E Y O N D   J O U R N E Y ' S   E N D ✦ ║");
-        Console.WriteLine("║           Combat & Magic System — Built with .NET 10            ║");
+        Console.WriteLine("║               🪄   M A N A  :  D E C E P T I O N   🪄             ║");
+        Console.WriteLine("║             Tactical Combat System — Built with .NET 10         ║");
         Console.WriteLine("╚═════════════════════════════════════════════════════════════════╝");
         Console.WriteLine();
     }

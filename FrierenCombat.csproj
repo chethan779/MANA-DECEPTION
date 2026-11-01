@@ -6,6 +6,8 @@
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>ManaDeception</AssemblyName>
+    <RootNamespace>ManaDeception</RootNamespace>
   </PropertyGroup>
 
 </Project>
