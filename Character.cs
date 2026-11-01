@@ -1,5 +1,5 @@
 
-class Character
+public class Character
 {
     public string Name { get; private set; }
     public int Health { get; protected set; }

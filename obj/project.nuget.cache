@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6JPbXBDPfk8=",
+  "dgSpecHash": "q7SIdQh0Pr8=",
   "success": true,
-  "projectFilePath": "/home/chethan/Documents/FrierenCombat/FrierenCombat.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/chethan/Documents/Frieren-Game/FrierenCombat.csproj",
+  "expectedPackageFiles": [
+    "/home/chethan/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
