@@ -302,7 +302,7 @@ internal static class Program
     {
         Console.WriteLine("╔═════════════════════════════════════════════════════════════════╗");
         Console.WriteLine("║               🪄   M A N A  :  D E C E P T I O N   🪄             ║");
-        Console.WriteLine("║             Tactical Combat System — Built with .NET 10         ║");
+        Console.WriteLine("║         Tactical Combat System — .NET 10 [Under Development]    ║");
         Console.WriteLine("╚═════════════════════════════════════════════════════════════════╝");
         Console.WriteLine();
     }

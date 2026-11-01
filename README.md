@@ -5,6 +5,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-13.0-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Status](https://img.shields.io/badge/Status-Under%20Development-ff6b6b?style=for-the-badge&logo=git&logoColor=white)](#-project-status)
 [![Architecture](https://img.shields.io/badge/Architecture-Event--Driven%20OOP-0284c7?style=for-the-badge)](#-architecture--design-patterns)
 [![Documentation](https://img.shields.io/badge/Docs-33--Page%20PDF-9333ea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mana_Deception_Technical_Documentation.pdf)
 [![License](https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge)](LICENSE)
@@ -20,7 +21,7 @@
 ```text
 ╔═════════════════════════════════════════════════════════════════╗
 ║               🪄   M A N A  :  D E C E P T I O N   🪄             ║
-║             Tactical Combat System — Built with .NET 10         ║
+║         Tactical Combat System — .NET 10 [Under Development]    ║
 ╚═════════════════════════════════════════════════════════════════╝
 ```
 
@@ -28,8 +29,29 @@
 
 ---
 
+## 🚧 Project Status
+
+> [!NOTE]
+> **Current Milestone:** `v0.2.0-dev` &bull; **Status:** 🟡 **Under Active Development**  
+>
+> The core tactical combat engine, mana suppression deception, demonic perception AI, and 3 playable boss encounters are fully functional. We are actively expanding the combat system with new playable mages, demonic spells, item mechanics, and party combat.
+
+| System / Milestone | Status | Description |
+| :--- | :---: | :--- |
+| **Core Turn-Based Combat Loop** | 🟢 Complete | Interactive action menu, life checks, and defeat resolution |
+| **Mana Suppression & Perception** | 🟢 Complete | Flamme's deception ratio (10% apparent MP) & +35% guard break |
+| **Multi-Tier Mitigation** | 🟢 Complete | Hexagonal barrier (-75%) & physical bracing (-50%) |
+| **Demonic Priority-Tree AI** | 🟢 Complete | Dynamic decision-making for Aura, Lugner, and Qual |
+| **Boss Scenarios (Frieren, Fern)** | 🟢 Complete | 3 canonical duels + automated demonstration runner |
+| **Consumables & Grimoires** | 🟡 In Progress | Potions, magical items, and collectible grimoire spells |
+| **Party-Based Warfare** | ⚪ Planned | 3v3 team combat (Frieren, Fern, Stark vs Demonic Sages) |
+| **Unity Engine Port** | ⚪ Planned | Unity MonoBehaviour wrappers and visual particle effects |
+
+---
+
 ## 📖 Table of Contents
 
+- [Project Status](#-project-status)
 - [Overview](#-overview)
 - [The Core Philosophy of Deception](#-the-core-philosophy-of-deception)
 - [Key Features](#-key-features)
